@@ -1,3 +1,6 @@
+[user]
+	name = Chris Marinas
+	email = (none)
 [core]
 	editor = "vim"
 	whitespace = space-before-tab,indent-with-non-tab,trailing-space,blank-at-eof
