@@ -1,3 +1,6 @@
 # Default editors
 export EDITOR="vim"
 export SVN_EDITOR="vim"
+
+# Composer
+export PATH=~/.composer/vendor/bin:$PATH
