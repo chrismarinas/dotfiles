@@ -5,9 +5,6 @@ alias alogs='tail -f ~/projects/logs/access.log'
 alias reloadalias='. ~/.zshrc'
 alias vhosts='cd /etc/apache2/sites-available'
 
-# Application
-alias laravel='~/.composer/vendor/bin/laravel'
-
 # Navigation
 alias ..="cd .."
 alias ...="cd ../.."
