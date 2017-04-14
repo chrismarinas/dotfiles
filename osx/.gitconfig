@@ -6,3 +6,5 @@
 	whitespace = space-before-tab,indent-with-non-tab,trailing-space,blank-at-eof
 [init]
     templatedir = ~/.gittemplates
+[push]
+	default = current

@@ -1,9 +1,6 @@
 # Convenience
 alias projects='cd ~/projects'
-alias elogs='tail -f ~/logs/errors.log'
-alias alogs='tail -f ~/logs/access.log'
 alias reloadalias='. ~/.zshrc'
-alias vhosts='cd /etc/apache2/vhosts'
 
 # Navigation
 alias ..="cd .."
