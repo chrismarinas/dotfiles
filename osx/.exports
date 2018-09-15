@@ -1,3 +1,4 @@
 # Default editors
 export EDITOR="vim"
 export SVN_EDITOR="vim"
+export NVM_DIR="$HOME/.nvm"

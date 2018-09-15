@@ -84,3 +84,6 @@ source ~/.aliases
 
 # Environment
 source ~/.exports
+
+# Trigger .nvm directory change
+source /usr/local/opt/nvm/nvm.sh
