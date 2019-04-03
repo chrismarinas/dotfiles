@@ -2,3 +2,8 @@
 export EDITOR="vim"
 export SVN_EDITOR="vim"
 export NVM_DIR="$HOME/.nvm"
+
+# Creates a symlink to the current version used by NVM
+# Ex: ls -ld $NVM_DIR/current
+export NVM_SYMLINK_CURRENT="true"
+
